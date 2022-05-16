@@ -131,11 +131,14 @@ header .menu{
     color: #fff;
     font-size: 32px;
     margin-bottom: 100px;
+    text-align: center;
+    margin-top: 20px;
 }
 
 .list-servicos{
     display: flex;
     justify-content: space-between;
+    padding-bottom: 20px;
 }
 
 .list-servicos .item-servico{
